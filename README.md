@@ -5,6 +5,6 @@ Nama: Yazid Akmal Adyatma
 NIM : 23.11.5845
 
 
-Profile Dataset: Kickstarter Projects Dataset
+Profile Dataset: Kickstarter Projects Dataset (2016)
 
 https://www.kaggle.com/datasets/kemical/kickstarter-projects
