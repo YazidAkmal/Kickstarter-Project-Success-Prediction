@@ -8,3 +8,12 @@ NIM : 23.11.5845
 Profile Dataset: Kickstarter Projects Dataset (2016)
 
 https://www.kaggle.com/datasets/kemical/kickstarter-projects
+
+Nama: Muhammad Affan Al Ghiffari
+
+NIM : 23.11.5860
+
+
+Profile Dataset: Kickstarter Projects Dataset (2018)
+
+https://www.kaggle.com/datasets/kemical/kickstarter-projects
